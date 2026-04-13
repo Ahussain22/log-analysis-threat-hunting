@@ -59,4 +59,20 @@ Example observations:
 
 ![Event Viewer Logs](./images/log.png)
 
+---
+
+## ✅ Conclusion
+
+This lab demonstrated how to use Windows Event Viewer to investigate past activity and detect potential security threats. Understanding how to analyse logs is a fundamental skill for blue team cybersecurity roles.
+
+---
+
+## 💡 Key Event IDs
+
+| Event ID | Description |
+|----------|------------|
+| 4624     | Successful login |
+| 4625     | Failed login |
+| 4672     | Admin privileges assigned |
+
 
