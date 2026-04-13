@@ -43,6 +43,7 @@ Looked for patterns such as:
 Example observations:
 - Multiple failed login attempts followed by a successful login → Possible brute force attack
 - Admin privileges assigned after login → Potential privilege escalation
+- If there were a high volume of failed login attempts in a short time frame → Likely automated attack
 
 ---
 
